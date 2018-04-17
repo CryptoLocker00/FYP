@@ -1,0 +1,31 @@
+.padding-10 {
+  padding: 10px 0;
+}
+
+.right-10{
+  right: 10px;
+}
+
+.left-20{
+  left: 20px;
+}
+
+.mandatory{
+  color: #ff0000;
+}
+
+.no-horizontal{
+  resize: vertical;
+}
+
+.item-remove{
+  cursor: pointer;
+  &:hover{
+    color: #ff0000;
+  }
+}
+
+.no-space{
+  margin: 0 !important;
+  padding: 0 !important;
+}

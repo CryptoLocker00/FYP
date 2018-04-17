@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.0",
+    "laravel-elixir": "^6.0.0-17",
+    "laravel-elixir-vue": "^0.1.4",
+    "laravel-elixir-webpack-official": "^1.0.2",
+    "lodash": "^4.14.0",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3"
+  },
+  "dependencies": {
+    "autosize": "^3.0.17",
+    "bootbox": "^4.4.0",
+    "bootstrap-datepicker": "^1.6.4",
+    "datatables": "^1.10.12",
+    "drmonty-datatables-plugins": "^1.10.12",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.42",
+    "font-awesome": "^4.6.3",
+    "moment": "^2.14.1",
+    "require-dir": "^1.0.0",
+    "select2": "^4.0.3",
+    "select2-bootstrap-theme": "0.1.0-beta.9",
+    "sortablejs": "^1.4.2"
+  }
+}
